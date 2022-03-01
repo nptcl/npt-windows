@@ -7,10 +7,10 @@ Npt is an ANSI Common Lisp Programming Language.
 # Download
 
 64bit [amd64]  
-http://nptcl.github.io/npt-windows/npt64.exe
+[https://nptcl.github.io/npt-windows/npt64.exe](https://nptcl.github.io/npt-windows/npt64.exe)
 
 32bit [Intel 32bit]  
-http://nptcl.github.io/npt-windows/npt32.exe
+[https://nptcl.github.io/npt-windows/npt32.exe](https://nptcl.github.io/npt-windows/npt32.exe)
 
 
 # Documentation
